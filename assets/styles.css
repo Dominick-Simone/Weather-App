@@ -1,0 +1,36 @@
+body div {
+    display: inline-block;
+}
+#forecastcontainer0 {
+    width: 13%;
+    height: 100%;
+    display: flex;
+    flex-direction: wrap;
+}
+#forecastcontainer1 {
+    width: 13%;
+    height: 100%;
+    display: flex;
+    flex-direction: wrap;
+}
+#forecastcontainer2 {
+    width: 13%;
+    height: 100%;
+    display: flex;
+    flex-direction: wrap;
+}
+#forecastcontainer3 {
+    width: 13%;
+    height: 100%;
+    display: flex;
+    flex-direction: wrap;
+}
+#forecastcontainer4 {
+    width: 13%;
+    height: 100%;
+    display: flex;
+    flex-direction: wrap;
+}
+.forecastbackground {
+    background-color:cornflowerblue;
+}
