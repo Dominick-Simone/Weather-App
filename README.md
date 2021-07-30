@@ -1,7 +1,7 @@
 ## Weather App
 
 ## Screenshots
-![Work-Day-Scheduler Deployed Page](https://dominick-simone.github.io/Weather-App/)
+![Work-Day-Scheduler Deployed Page](https://dominick-simone.github.io/Weather-App)
 ![Work-Day-Scheduler Screenshot](https://github.com/Dominick-Simone/Weather-App/blob/main/Screenshot.png)
 
 ## Technologies Used
