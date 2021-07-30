@@ -11,7 +11,7 @@
 * Bootstrap
 
 ## Description
-This is an app that saves your inputs locally and is used as a day scheduler.
+This is an app that you can search for weather.
 
 ## Work Done
 * Created a search button linked to the API
